@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: #3346a1;
+    color: white;
+}
+
+.card {
+    margin: 50px;
+    padding: 50px;
+}
+h1 {
+    text-align: center;
+}
